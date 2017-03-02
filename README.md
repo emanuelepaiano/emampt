@@ -14,6 +14,5 @@ Upload zip file and click install.
 To use it, go to module setup and set parametres (integer values, listboxes and 
 checkboxes). Apply Settings clicking "Run all tasks" button.
 
-AUTHOR
 For info you can write me at nixw0rm [at] gmail [dot] com
 Emanuele Paiano
