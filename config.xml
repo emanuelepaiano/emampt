@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>emampt</name>
+            <displayName><![CDATA[Multiple Products Task]]></displayName>
+            <version><![CDATA[1.0]]></version>
+            <description><![CDATA[Pochi click per modificare gli attributi di pi&ugrave; prodotti]]></description>
+            <author><![CDATA[Emanuele Paiano]]></author>
+            <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall>Sicuro di volerlo disinstallare?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>
